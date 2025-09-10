@@ -1,1 +1,1 @@
-Implement hash table
+Implement hash table class
